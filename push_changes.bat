@@ -13,6 +13,7 @@ cls
 echo Pushing changes
 git push -u origin main
 timeout 3 /nobreak
+cls
 
 echo Done
 timeout 3 /nobreak
